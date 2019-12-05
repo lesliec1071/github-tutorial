@@ -33,3 +33,7 @@ When you save your work, you are saving the changes you made to your file theref
 After you would _git add (filename)_ so your work (the file) can be added to the reository.
 Then you would _git commit -m_ so your changes would be secure and permenatly saved. 
 Last you would _git push_ so your work & the changes will appear on the IDE and Github.
+
+---
+#### Feedback
+Use grammar in your steps. Also, maybe add extra stuff, like forking/pulling/cloning for extra credit!
