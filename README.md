@@ -1,6 +1,6 @@
 # GitHub Tutorial
 
-_by <Leslie Calle>_
+_by Leslie Calle_
 
 ---
 ## Git vs. GitHub
