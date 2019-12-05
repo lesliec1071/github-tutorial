@@ -20,7 +20,7 @@ In order to set up a C550 IDE, (click here) [http://github.com/hstatsep/ide50]
 * 2.go to IDE & create a new directory 
 * 3.go into that directory (_cd (directory made)_)
 * 4.then create a file (_touch (file)_)
-* 5. write your message 
+* 5.write your message 
 * 6.git init (**if not in master**)
 * 8.git commit -m "message"
 * 9.git push 
